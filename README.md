@@ -1,5 +1,5 @@
 # ユニバーサルWindowsアプリ
-ApplicationData
-設定ファイルのパスとかローカルデータのパスとか
+ApplicationData  
+設定ファイルのパスとかローカルデータのパスとか  
 
 
