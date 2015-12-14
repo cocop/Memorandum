@@ -8,5 +8,5 @@ ApplicationData
 Windows.Storage.KnownFolders  
 *フォルダークラスを取得できる*
 
-System.Diagnostics.Debug
+System.Diagnostics.Debug  
 *デバッグ出力*
